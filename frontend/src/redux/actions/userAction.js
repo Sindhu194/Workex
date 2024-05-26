@@ -130,7 +130,7 @@ export const userApplyJobAction = (job) => async (dispatch) => {
             type: USER_APPLY_JOB_SUCCESS,
             payload: data
         });
-        toast.success("Apply Successfully for this Job!");
+        toast.success("Applied Successfully for this Job!");
     } catch (error) {
         dispatch({
             type: USER_APPLY_JOB_FAIL,

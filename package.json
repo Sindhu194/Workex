@@ -7,8 +7,8 @@
     "start": "node backend/app.js",
     "server": "nodemon backend/app.js"
   },
-  "author": "Emmann",
-  "license": "ISC",
+  "author": "WorkEx Employees",
+  "license": "",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.20.1",
