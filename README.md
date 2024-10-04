@@ -107,7 +107,7 @@ Additional technologies:
 # Getting Started
 
 To set up the project locally:
-Start the frontend and backend using npm
+Start the frontend and backend using npm in different terminals
 
 
 # Usage
